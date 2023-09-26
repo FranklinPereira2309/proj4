@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     unsigned long int uli;
-    unsigned long int  maximo = numeric_limits<unsigned long int>::max();
+    unsigned long int maximo = numeric_limits<unsigned long int>::max();
     unsigned long int minimo = numeric_limits<unsigned long int>::min();
 
     uli = maximo;
