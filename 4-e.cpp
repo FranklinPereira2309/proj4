@@ -4,13 +4,12 @@
 using namespace std;
 
 int main() {
-    //double num1 = 1.0e100;
-    //long double num2 = 1.0e100;
-
+    
     double num1;
     long double num2;
 
     double valorMaximo = numeric_limits<double>::max();
+    
     num1 = valorMaximo;
     num2 = valorMaximo;
 
